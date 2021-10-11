@@ -1,0 +1,15 @@
+.repo-search {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+.repo-search__results {
+    padding-top: 20px;
+}
+.repo-search__results-header {
+    padding-bottom: 30px;
+}
+.repo-search__results .repo-search__card {
+    width: 100%;
+}
